@@ -1,0 +1,192 @@
+/*modal box*/
+.bpajax-register-window{
+    
+  position: relative;
+  background: #FFF;
+  width: auto;
+  max-width: 600px;
+  margin: 40px auto;
+  padding-bottom: 20px;
+}
+.bpajax-register-title{
+    background-color: #3B5998;
+    border: 0 none;
+    height: 25px;
+    padding: 8px;
+}
+.bpajax-register-title span{
+    color: #FFFFFF;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    padding:3px 0 5px 25px;
+  
+}
+
+
+
+.bpajax-register-window .mfp-close {
+    
+    position: absolute;
+    right: 8px;
+    float:right;
+    padding-left:15px;
+    color:#fff;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+/*Registeration form*/
+.register_form_wrap{
+    margin:25px;
+   
+
+}
+#register_form .register-section{
+    width: 45%;
+    padding: 2%;
+}
+#register_form #basic-details-section,
+#register_form #blog-details-section{
+	float: left;
+	
+}
+#register_form #profile-details-section{float:left;}
+#register_form #blog-details-section {
+	clear: left;
+        
+}
+#register_form #blog-details{
+    display: none;
+}
+#register_form #basic-details-section{
+
+}
+#register_form #profile-details-section {
+    float: left;
+   
+}
+#register_form textarea,
+#register_form input[type=text],
+#register_form select,
+#register_form input[type=password] {
+	border: 1px solid #000;
+	color: #888;
+	font: inherit;
+	font-size: 14px;
+	padding: 6px;
+}
+#register_form input:focus,
+#register_form textarea:focus,
+#register_form select:focus {
+	background: #fafafa;
+	color: #555;
+}
+#register_form select {
+	padding: 3px;
+}
+#register_form input[type=password] {
+	margin-bottom: 5px;
+}
+#register_form label,
+#register_form span.label {
+	display: block;
+	font-weight: normal;
+	margin: 15px 0 5px 0;
+}
+#register_form div.checkbox label,
+#register_form div.radio label {
+	color: #888;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 5px 0 0 0;
+}
+
+#register_form #basic-details-section input[type=password],
+#register_form #blog-details-section input#signup_blog_url {
+	width: 170px;
+}
+#register_form input[type=text],
+#register_form textarea{
+	width:170px;
+}
+
+
+#register_form textarea {
+	height: 120px;
+}
+
+#register_form p.description {
+	color: #888;
+	font-size: 11px;
+	margin: 5px 0;
+}
+#register_form div.submit {
+	clear: both;
+	padding: 25px 0 0 0;
+}
+#register_form p.submit {
+	margin-bottom: 0;
+	padding: 15px 0 0 0;
+}
+#register_form div.submit input {
+	margin-right: 15px;
+}
+#register_form div.radio ul {
+	margin: 10px 0 15px 38px;
+	list-style: disc;
+}
+#register_form div.radio ul li {
+	margin-bottom: 5px;
+}
+#register_form a.clear-value {
+	display: block;
+	margin-top: 5px;
+	outline: none;
+}
+
+
+/*error message*/
+#register_form div div.error {
+	background: #e41717;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	color: #fff;
+	margin: 0 0 10px 0;
+	padding: 6px;
+	width: 90%;
+}
+
+/************** Responsive*/
+@media (max-width: 480px) {  }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) { 
+    #register_form .register-section{
+        width: 90%;
+        margin: 0 auto;
+    }
+    #register_form #profile-details-section,
+    #register_form #basic-details-section,
+    #register_form #blog-details-section{
+        float: none;
+    }
+    #register_form input[type="text"],
+    #register_form textarea{
+     width: 100%;    
+    }
+    #register_form #basic-details-section input[type="password"], #register_form #blog-details-section input#signup_blog_url{
+        width:100%;
+    }
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 940px) {  }
+ 
+/* Default: 940px and up  */
+ 
+/* Large desktop */
+@media (min-width: 941px) {  }

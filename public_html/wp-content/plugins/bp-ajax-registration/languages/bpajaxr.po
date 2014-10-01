@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Ajax registration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-09 04:54+0530\n"
+"PO-Revision-Date: 2012-02-09 04:54+0530\n"
+"Last-Translator: Brajesh Singh <brajesh@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/sbrajesh/Desktop/bp-ajax-registration\n"
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/bp-ajax-registration.php:102
+msgid "Please make sure you enter your password twice"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/bp-ajax-registration.php:106
+msgid "The passwords you entered do not match."
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/bp-ajax-registration.php:129
+msgid "This is a required field"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/bp-ajax-registration.php:252
+msgid "Your account is now active!"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/bp-ajax-registration.php:313
+#: /home/sbrajesh/Desktop/bp-ajax-registration/bp-ajax-registration.php:317
+msgid "Invalid activation key"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:3
+msgid "Create Account!"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:19
+msgid "Account Details"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:21
+msgid "Username"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:21
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:25
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:29
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:33
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:61
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:69
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:77
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:87
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:98
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:113
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:124
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:170
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:179
+msgid "(required)"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:25
+msgid "Email Address"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:29
+msgid "Choose a Password"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:33
+msgid "Confirm Password"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:104
+msgid "Clear"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:165
+msgid "Do you need a blog?"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:166
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:170
+msgid "Blog URL"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:179
+msgid "Site Title"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:183
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:186
+msgid "Yes"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:187
+msgid "No"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:200
+msgid "Register"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:210
+msgid "Sign Up Complete!"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:216
+msgid "Welcome abroad!"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:220
+msgid "Thank you for taking time to register. We hope you will enjoy our Community!"
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:225
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr ""
+
+#: /home/sbrajesh/Desktop/bp-ajax-registration/register.php:227
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr ""
+

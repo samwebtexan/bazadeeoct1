@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-28 21:04+0530\n"
+"PO-Revision-Date: 2010-08-28 21:04+0530\n"
+"Last-Translator: Brajesh Singh <brajesh@cosmiccoders.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\webroot\\bp\\test\\wp3ms\\wp-content\\plugins\\bp-branded-login\n"
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:133
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:136
+msgid "You have logged in successfully."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:156
+msgid "Your Password is incorrect. Please try again."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:157
+msgid "Your Password is empty. Please enter correct password."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:158
+msgid "Your Username is empty. Please enter your Username."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:159
+msgid "The username is Invalid!"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:164
+msgid "Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use this site."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:247
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:252
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:264
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:278
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:290
+msgid "Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:292
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:358
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:293
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:300
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:306
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:372
+msgid "The e-mail could not be sent.Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:309
+msgid "We have sent you a link to reset password.Please check your mail."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:322
+msgid "You have succesfully logged out!"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:342
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:345
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:349
+msgid "Invalid key"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:359
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:366
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:376
+msgid "We have generated a password for you. Please check your mail for the new password."
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:430
+msgid "Log In"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/bp-branded-login.php:434
+msgid "Sign Up"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/login.php:9
+msgid "Login! Please"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/login.php:15
+msgid "Username"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/login.php:19
+msgid "Password"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/login.php:39
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/resetpass.php:24
+msgid "Register"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/login.php:41
+msgid "Password Lost and Found"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/login.php:41
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/resetpass.php:9
+msgid "Resetting Password!"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/resetpass.php:14
+msgid "Username or E-mail:"
+msgstr ""
+
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/resetpass.php:23
+#: C:\webroot\bp\test\wp3ms\wp-content\plugins\bp-branded-login/blogin/resetpass.php:26
+msgid "Log in"
+msgstr ""
+
